@@ -22,12 +22,11 @@ O jogo utiliza:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
 
-   🎮 Como Jogar
+  ## 🎮 Como Jogar
 
-    O jogo sorteará um número entre 1 e 1000.
+   O jogo sorteará um número entre 1 e 1000.
 
-    Digite seu palpite no console.
+   Digite seu palpite no console.
 
-    O programa dirá se o número secreto é maior ou menor que o seu palpite.
-
-    Acerte os 3 números para finalizar o desafio e ver seu score total de tentativas!
+ O programa dirá se o número secreto é maior ou menor que o seu palpite.
+ Acerte os 3 números para finalizar o desafio e ver seu score total de tentativas!
